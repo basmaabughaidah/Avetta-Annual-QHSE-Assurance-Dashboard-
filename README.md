@@ -2,7 +2,7 @@
 
 Public documentation for an annual **Quality, Health, Safety & Environment (QHSE)** dashboard designed to support **Avetta** reporting requirements and provide a company-wide, audit-ready view of QHSE performance.
 
-> This repository intentionally contains ** screenshots only**.  
+> This repository intentionally contains **screenshots only**.  
 > The operational Excel workbooks and raw datasets are **not published** to protect privacy, confidentiality, and compliance requirements.
 
 ---
