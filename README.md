@@ -75,3 +75,14 @@ Screenshots must not expose:
 - Microsoft Excel (dashboard, pivots, KPI layout)
 - Power Query / Data Model (cleaning, shaping, refresh pipeline — as configured)
 - Consistent KPI definitions to ensure audit readiness
+
+## Screenshots
+
+![Screenshot 01](Screenshot%2001.png)
+![Screenshot 02](Screenshot%2002.png)
+![Screenshot 03](Screenshot%2003.png)
+![Screenshot 04](Screenshot%2004.png)
+![Screenshot 05](Screenshot%2005.png)
+![Screenshot 06](Screenshot%2006.png)
+
+
